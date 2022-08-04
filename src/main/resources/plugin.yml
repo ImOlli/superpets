@@ -1,0 +1,10 @@
+name: SuperPets
+version: '${project.version}'
+main: de.imolli.superpets.SuperPets
+api-version: 1.19
+authors: [ ImOlli ]
+
+commands:
+  superpet:
+    description: The main command
+    usage: /superpet create dog
