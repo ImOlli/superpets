@@ -13,7 +13,7 @@ Just tame a dog and the throw an enchanted golden apple on him.
 He will then transform into a super dog. When You shift-right-click on a
 super dog he will kill all enemies in a range of 100 blocks.
 
-![Example Video](example.mp4)
+[Example Video](example.mp4)
 
 ## Commands
 
